@@ -1,1 +1,1 @@
-This repository is made as part of an assignment.
+This repository was made as a part of an assignment.
